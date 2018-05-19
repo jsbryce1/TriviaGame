@@ -1,5 +1,3 @@
-
-
 //## questions to be ised in the game
 var questions = [{
     question: " what is the largest city in the world? ",
