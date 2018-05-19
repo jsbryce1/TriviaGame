@@ -1,0 +1,47 @@
+body {
+    background: url("../../assets/images/fuji2.jpg");
+    color: rgb(83, 255, 226);
+     text-shadow: 2px 2px 2px  rgb(5, 78, 62);
+}
+
+body :hover {
+    cursor: pointer;
+}
+#container {
+     font-size: 20px;
+}
+#counter{
+   color: rgb(90, 252, 144);
+}
+
+#wrapper {
+    letter-spacing: 10px;
+    margin-top: 50px;
+     font-size: 20px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#start {
+    background-color: rgb(244, 57, 244);
+    border: 20px;
+    border-color: palegreen;
+    color: rgb(90, 252, 144);
+    border-radius: 10px;
+    padding: 36px;
+}
+
+#reload {
+ position: fixed;
+ bottom: 0;
+ left: 0;
+ background-color: palegreen;
+    color: rgb(252, 90, 252);
+    border-radius: 5px;
+    padding: 25px;
+}
+#title{
+        font-size: 35px;
+     padding: 45px;
+     margin-left: 20%;
+     font-size: 65px;
+}
